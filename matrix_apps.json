@@ -1,0 +1,52 @@
+[
+  {
+    "id": "app_pdfview",
+    "icon": "book.pages.fill",
+    "themeColorHexes": ["#4F46E5", "#7C3AED"],
+    "nameZh": "PDFview - 智能重排阅读器",
+    "nameEn": "PDFview - Smart Reflow Reader",
+    "taglineZh": "双模式智能重排、拟真纸质排版与小屏沉浸精读利器",
+    "taglineEn": "Smart dual-mode reflow & paper-like typography for PDFs",
+    "appStoreURLString": "https://apps.apple.com/app/id6823856770",
+    "badgeZh": "精选",
+    "badgeEn": "Featured",
+    "excludedRegions": ["CHN"]
+  },
+  {
+    "id": "app_snoozebook",
+    "icon": "moon.stars.fill",
+    "themeColorHexes": ["#1E1B4B", "#4338CA"],
+    "nameZh": "SnoozeBook - 睡前有声书",
+    "nameEn": "SnoozeBook - Bedtime Audiobooks",
+    "taglineZh": "专为睡前闭眼听书与无屏幕盲操作打造的有声书播放器",
+    "taglineEn": "Audiobook player built for bedtime & eyes-free listening",
+    "appStoreURLString": "https://apps.apple.com/app/id6829168432",
+    "badgeZh": "精选",
+    "badgeEn": "Featured",
+    "excludedRegions": ["CHN"]
+  },
+  {
+    "id": "app_pure_drop",
+    "icon": "sparkles.rectangle.stack.fill",
+    "themeColorHexes": ["#0071E3", "#30B0C7"],
+    "nameZh": "ZeroDrop · 纯净无广专业版",
+    "nameEn": "ZeroDrop Pure Edition",
+    "taglineZh": "一次买断永久收起顶部推荐栏，局域网网页端同步纯净",
+    "taglineEn": "One-time purchase removes all promo banners forever",
+    "appStoreURLString": "inapp://remove_ads",
+    "badgeZh": "专业版",
+    "badgeEn": "Pro"
+  },
+  {
+    "id": "tip_share_extension",
+    "icon": "square.and.arrow.up.circle.fill",
+    "themeColorHexes": ["#059669", "#0D9488"],
+    "nameZh": "快捷技巧 · 系统分享一键快传",
+    "nameEn": "Pro Tip · Share Sheet Instant Drop",
+    "taglineZh": "在相册、文件或微信中点「分享 → ZeroDrop」，免打开直接发送",
+    "taglineEn": "Tap Share → ZeroDrop in Photos or Files to send instantly",
+    "appStoreURLString": "inapp://user_guide",
+    "badgeZh": "技巧",
+    "badgeEn": "Tip"
+  }
+]
